@@ -1,0 +1,46 @@
+{
+  "artworks": [
+    {
+      "id": 1,
+      "title": "Threshold Field",
+      "year": 2024,
+      "url": "/manus-storage/1._Threshold_Field_2b710724.jpeg",
+      "description": "A moment of transition where earth meets sky, where the familiar becomes something felt rather than seen."
+    },
+    {
+      "id": 2,
+      "title": "Soft Horizon",
+      "year": 2024,
+      "url": "/manus-storage/2._Soft_Horizon_3e1913db.jpeg",
+      "description": "The quality of light that exists only briefly—in the last warm hour before dark."
+    },
+    {
+      "id": 3,
+      "title": "Afterlight",
+      "year": 2024,
+      "url": "/manus-storage/3._Afterlight_45fee6da.jpg",
+      "description": "What remains when the day dissolves. A meditation on presence and absence."
+    },
+    {
+      "id": 4,
+      "title": "Drift Between",
+      "year": 2024,
+      "url": "/manus-storage/5._Drift_Between__dd7fc192.jpeg",
+      "description": "The suspended moment between states—neither here nor there, but something in between."
+    },
+    {
+      "id": 5,
+      "title": "Fading Distance",
+      "year": 2024,
+      "url": "/manus-storage/6._Fading_Distance_cec5d398.jpg",
+      "description": "Distance as emotion. The way space can carry grief, or warmth, or quiet relief."
+    },
+    {
+      "id": 6,
+      "title": "Untitled",
+      "year": 2024,
+      "url": "/manus-storage/FC35A146-46AB-48CA-ABF8-EE0F299886D9_b99ece33.png",
+      "description": "A moment of contemplation. Light and shadow in conversation."
+    }
+  ]
+}
